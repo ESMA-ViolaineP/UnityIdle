@@ -6243,7 +6243,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -219.2, y: -177}
+  m_AnchoredPosition: {x: -219.2, y: -207}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &585353319
@@ -16327,7 +16327,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -217, y: -232}
+  m_AnchoredPosition: {x: -217, y: -277.99997}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1614952800
@@ -16350,9 +16350,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Conception, programmation, art : Patient Violaine\nMusiques : Shushubobo\nSFX
-    : Creator Assets\nAvec l'aide du personnel de l'ESMA\n(+ Merci Tristan, Louis,
-    Jules \u263A)\n(+ Remerciement sp\xE9cial pour Emy \u263B)"
+  m_text: 'Conception, programmation, art : Unlucky_Script
+
+    Musiques : Shushubobo
+
+    SFX
+    : Creator Assets
+
+    Beta-tester : Bygourou'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4e94e02585fe2d044bde482d072bb1f8, type: 2}
   m_sharedMaterial: {fileID: -3386523458234849455, guid: 4e94e02585fe2d044bde482d072bb1f8, type: 2}
